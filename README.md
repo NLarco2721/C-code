@@ -1,4 +1,4 @@
-Thesea re three basic C# movement files usable in the Unity engine.
+These are three basic C# movement files usable in the Unity engine.
 
 The first file is the InputManager file, which essentially manages 
 general key inputs for character movement. It also makes sure that the 
